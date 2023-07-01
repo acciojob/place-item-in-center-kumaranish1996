@@ -1,2 +1,7 @@
 
 /* Your CSS Code here. */
+.para{
+	display:flex;
+	justify-content:center;
+	align-items:center;
+}
